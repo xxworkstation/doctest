@@ -29,10 +29,12 @@ locale: "zh"
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 collections:
   docs:
     permalink: /:collection/:path
