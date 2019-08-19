@@ -28,6 +28,7 @@ github_username:  jekyll
 locale: "zh"
 
 # Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 markdown: kramdown
 minimal_mistakes_skin: "air"
 plugins:
