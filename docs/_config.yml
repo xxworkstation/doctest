@@ -25,7 +25,7 @@ logo: "assets/images/logo.svg"
 masthead_title: "用户手册"
 twitter_username: jekyllrb
 github_username:  jekyll
-locale: "zh"
+# locale: "zh"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.16.5"

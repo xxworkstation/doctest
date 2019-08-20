@@ -5,14 +5,12 @@ title:  仪表板管理
 toc: true
 toc_label: "Davinci Overview"
 toc_icon: "cog"
+last_modified_at: "2019-09-01"
 ---
-
-{{site.locale}}
 
 ### 1 数据应用层
 
-<!-- 数据应用层（Viz，Visualization 的缩写），Davinci 0.3 提供了仪表板（Dashboard）和大屏管理（Display）两种不同的可视化应用交互探索模式。通过钻取、联动、分享、过滤器、控制器、视频、自由布局等操作，让 Widget 灵动起来，图文并茂，实现用户与数据直接对话，帮助用户更好地观察与分析数据，满足领导决策等多种应用需求。 -->
-{{ site.data.ui-text[site.locale].fuck }}
+数据应用层（Viz，Visualization 的缩写），Davinci 0.3 提供了仪表板（Dashboard）和大屏管理（Display）两种不同的可视化应用交互探索模式。通过钻取、联动、分享、过滤器、控制器、视频、自由布局等操作，让 Widget 灵动起来，图文并茂，实现用户与数据直接对话，帮助用户更好地观察与分析数据，满足领导决策等多种应用需求。
 
 - 在 Viz 页分别创建 Dashboard 和 Display 应用层。
 
